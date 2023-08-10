@@ -1,4 +1,2 @@
 This is a feature-1 branch
-Adding more lines to feature-1 branch
-Hi
-Hello
+Adding changes from practice-2 folder
