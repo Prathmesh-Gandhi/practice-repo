@@ -3,7 +3,7 @@ name: triggers events and filters
 on:
     push:
         branches:
-            - "testing"
+            - "testing/"
     pull_request:
         types:
             - opened

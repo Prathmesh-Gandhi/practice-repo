@@ -1,7 +1,7 @@
 name: Environment Variables
 
 on:
-    workflow_dispatch
+    workflow_dispatch:
 env:
   WORKFLOW_VAR: I_AM_WORKFLOW_SCOPED
 
