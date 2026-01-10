@@ -8,8 +8,6 @@ env:
 jobs:
     job-1:
         runs-on: ubuntu-24.04
-        needs:
-            - job-2
         env:
             JOB_VAR: I_AM_JOB_1_SCOPED
         steps:
